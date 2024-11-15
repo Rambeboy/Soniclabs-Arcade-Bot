@@ -1,13 +1,13 @@
 ### SONICLABS ARCADE TESTNET BOT
 
-(https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/pEf4ou_1otpEkc4V3E4a014cwKmaM8c8s6ODb_b0ipg)
+![soniclabs](assets/img5.jpg)
 
 About Sonic Labs (Prev Fantom)
 
-- Register: [https://airdrop.soniclabs.com/](https://airdrop.soniclabs.com/?ref=tql092 )
+- [Register Here](https://airdrop.soniclabs.com/?ref=b53121)
 - Connect Wallet to Sonic Testnet
-- Enter Access Code: `tql092`
-- Get Faucet : <https://testnet.soniclabs.com/account>
+- Enter Access Code: `b53121`
+- Get Faucet: [Faucet](https://testnet.soniclabs.com/account)
 
 ## BOT FEATURE
 
@@ -23,13 +23,11 @@ About Sonic Labs (Prev Fantom)
 
 ## STEPS
 
-- Get faucet $S token [Faucet)(https://testnet.soniclabs.com/account)
+- Get faucet $S token [Faucet](https://testnet.soniclabs.com/account)
 - After you get token, play all game at least once!!!
 - Get your Smart Wallet Address [HERE](https://testnet.soniclabs.com/account) and copy it from top right navigation dropdown.
 
-> [!tip]
->
-> REMEMBER TO CLAIM FAUCET WEEKLY
+- REMEMBER TO CLAIM FAUCET WEEKLY
 
 ## INSTALLATION
 
@@ -37,43 +35,37 @@ About Sonic Labs (Prev Fantom)
 
 1. Open your `Terminal`.
 
-1. Clone project repository
-
+2. Clone project repository
    ```bash
    git clone https://github.com/Rambeboy/soniclabs-arcade-bot.git && cd soniclabs-arcade-bot
+   ```
 
-2. Install dependencies
-  
-  ```
+3. Install dependencies
+   ```
    npm install
    ```
 
-2. Configure your accounts
-  ```bash
+4. Configure your accounts
+   ```bash
    cp .env.example .env
    ```
    
-3. Open `.env` file
-  
+5. Open `.env` file
    ```bash
    nano .env
    ```
+- Please read the comments in `.env` file and fill in the required information.
 
-> [!tip]
-> Please read the comments in `.env` file and fill in the required information.
-
-1. Start the bot
-
-    ```bash
-    npm run start
-    ```
+6. Start the bot
+   ```bash
+   npm run start
+   ```
 
 ### WINDOWS
 
 1. Open your `Command Prompt` or `Power Shell`.
 
 2. Clone project repository
-
    ```bash
    git clone https://github.com/Rambeboy/soniclabs-arcade-bot.git && cd soniclabs-arcade-bot
    ```
@@ -84,13 +76,17 @@ About Sonic Labs (Prev Fantom)
    ```
 
 4. Navigate to `soniclabs-arcade-bot` directory.
+
 - cp `.env.example` to file `.env`
+
 - Now open `.env` and config your account private key or mnemonic, and optionally you can add proxy for each account.
+
 - Back to `soniclabs-arcade-bot` directory.
+
 - In your `Command Prompt` or `Power Shell`, run the bot:
   
   ```bash
-  node src/index.js
+  npm run start
   ```
 
 ## UPDATE BOT
@@ -98,24 +94,23 @@ About Sonic Labs (Prev Fantom)
 To update bot, you need to pull the latest code from this repo and update the dependencies
 
 1. Pull the latest code
-
    ```bash
    cd sonic-arcade-bot
    git pull
    ```
-  or
+
+   or
+   
    ```bash
    git pull --rebase
    ```
 
-   If you got conflict, you can stash your changes and pull again:
-
+- If you got conflict, you can stash your changes and pull again:
    ```bash
    git stash && git pull
    ```
 
 1. Update dependencies
-
    ```bash
    npm update
    ```
