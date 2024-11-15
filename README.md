@@ -7,7 +7,7 @@ About Sonic Labs (Prev Fantom)
 - [Register Here](https://airdrop.soniclabs.com/?ref=b53121)
 - Connect Wallet to Sonic Testnet
 - Enter Access Code: `b53121`
-- Get Faucet: [Faucet](https://testnet.soniclabs.com/account)
+- [Get Faucet](https://testnet.soniclabs.com/account)
 
 ## BOT FEATURE
 
