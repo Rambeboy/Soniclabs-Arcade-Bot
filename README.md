@@ -1,4 +1,4 @@
-### SONICLABS ARCADE TESTNET BOT
+#### SONICLABS ARCADE TESTNET BOT
 
 ![soniclabs](assets/img5.jpg)
 
@@ -126,7 +126,7 @@ To update bot, you need to pull the latest code from this repo and update the de
 - Run this bot, and it will update your referrer code to my invite code if you don't have one.
 - You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
 
-## CONTRIBUTION
+## LICENSE
 
 Feel free to contribute to this project by creating a pull request.
 
