@@ -2,7 +2,7 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
-export const REFERRER_CODE = 'tql092'
+export const REFERRER_CODE = 'b53121'
 export const RPC = {
   CHAINID: 64165,
   RPCURL: 'https://rpc.testnet.soniclabs.com',
