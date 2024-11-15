@@ -128,5 +128,5 @@ To update bot, you need to pull the latest code from this repo and update the de
 
 ## LICENSE
 
-Feel free to contribute to this project by creating a pull request.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
