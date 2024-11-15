@@ -74,9 +74,9 @@ async function startBot() {
   try {
     fs.rmSync('logs/', { recursive: true })
     console.clear()
-    console.log('----------------- SonicLabs Arcade BOT ------------------')
-    console.log(' Ensure your bot is up-to-date by running: ')
-    console.log(' git reset --hard && git pull')
+    console.log('----------------- SONICLABS ARCADE BOT ------------------')
+    console.log('                  AUTHOR : NOFAN RAMBE                   ')
+    console.log('                  WELCOME & ENJOY SIR!                   ')
     console.log('---------------------------------------------------------')
 
     await startBot()
